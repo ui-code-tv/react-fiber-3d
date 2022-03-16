@@ -1,8 +1,8 @@
 Install dependencies
-npm install
+`npm install`
 
 Serve on localhost:3000
-npm start
+`npm start`
 
 Build for production
-npm run build
+`npm run build`
